@@ -1,0 +1,2 @@
+adapter.iPhoneCharger
+adapter.SamsungCharger
